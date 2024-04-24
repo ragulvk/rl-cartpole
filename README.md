@@ -14,8 +14,8 @@ ii) 1: Push cart to the right
 
 ## MONTE CARLO CONTROL ALGORITHM FOR CART POLE BALANCING
 ```
-Name: Bairav Skandan Loha
-Reg No: 212221230010
+Name: Ragul VK
+Reg No: 212221240043
 ```
 
 ```Python
